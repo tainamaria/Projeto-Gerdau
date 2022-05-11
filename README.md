@@ -1,5 +1,5 @@
 # Projeto-Gerdau
-Projeto final do bootcamp Data Analytics
+Projeto final do bootcamp Data Analytics - Squad Grace Hopper
 
 A WoMakersCode proporcionou 16 semanas de capacitação em Data Analytics para 36 mulheres de 11 estados do pais. Foram 44 aulas incluindo Python, Estatísticas, SQL, Power BI, Excel, Computação em nuvem, Serviços de dados, além das rodas de conversas sobre diversidade na tecnologia, como criar melhores hábitos, transição de carreira, maternidade e carreira na tecnologia, dentre tantos assuntos.
 
